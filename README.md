@@ -30,3 +30,6 @@ SEPTIEMBRE 2022-OCTUBRE
 - [ ] **Uso de selectores de CSS**
 - [ ] **Modelo de caja (box model): borde, margen, padding**
 - [ ] **Uso de flexbox en CSS**
+
+#Finalizando
+![Logo de mi proyecto](./img/portafoliofoto.jpg)
